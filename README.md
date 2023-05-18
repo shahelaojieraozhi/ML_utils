@@ -1,3 +1,3 @@
 # ML_utils
 
-some knowledge and python code of ML
+Some knowledge and python code of ML
